@@ -1,6 +1,6 @@
 # APM-Fraud-Detection-Project
 
-Group project experimenting with the accuracy of different classification algorithms in detecting online credit card fraud using data provided by Vesta Coporation in a Kaggle competition.
+Group project testing the accuracy of different classification algorithms in detecting credit card fraud using ecommerce data provided by Vesta Coporation for a past Kaggle competition.
 
 Data Obtained from: https://www.kaggle.com/c/ieee-fraud-detection/data
 
